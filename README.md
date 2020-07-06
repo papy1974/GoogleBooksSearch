@@ -1,7 +1,7 @@
 
 # Title.
 
-The project is named the GoogleBooksSearch that allowed the user to search for book that he needs.
+The project is named the GoogleBooksSearch that allowed the user to search for the book that he needs.
 
 # Languages and Tools used:
 
@@ -34,7 +34,7 @@ Here is the project link : https://radiant-atoll-41523.herokuapp.com/
 
 # Installation.
 
-TO use the project, the following software must be installed on your computer. Git Bash, and visual studio that can be done on a laptop or a mac. Git can be download from the following link: https://git-scm.com/download/win, and here is the link for downloading visual studio: visualstudio.microsoft.com. both Git bash and visual studio will allow the user the have access to the codes that help to build a project. Also, the user has to install Mongodb.
+TO use the project, the following software must be installed on your computer. Git Bash, and visual studio that can be done on a laptop or a mac. Git can be download from the following link: https://git-scm.com/download/win, and here is the link for downloading visual studio: visualstudio.microsoft.com. both Git bash and visual studio will allow the user the have access to the codes that help to build a project. Also, the user has to install MongoDB.
 
 # Example usage.
 
