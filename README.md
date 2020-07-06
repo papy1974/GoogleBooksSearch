@@ -6,15 +6,21 @@ The project is named the GoogleBooksSearch that allowed the user to search for t
 # Languages and Tools used:
 
 React
+
 Bootstrap
+
 Express
+
 Mongoose
+
 React-Bootstrap
+
 React-Router
 
 Database Used:
 
 MongoDB
+
 Npm Packages Used:
 
 Axios
